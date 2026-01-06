@@ -1,4 +1,4 @@
-baseURL = '/blogs/'
+baseURL = 'https://0xl3monsec.github.io/blog/'
 languageCode = 'en'
 title = 'Cybersecurity & Bug Hunting'
 theme = 'hugo-theme-reimu'
