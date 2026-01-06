@@ -1,7 +1,7 @@
 ---
-title: "Prueba TOC con Labs"
+title: "About"
 date: 2025-09-23
-cover: "/images/covers/posts/randoms/random_3.webp"
+cover: "images/covers/posts/randoms/random_3.webp"
 draft: false
 ---
 
