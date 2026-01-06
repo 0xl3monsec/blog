@@ -7,7 +7,7 @@ tags:
   - Burpsuite
   - Logger++
   - Sqli
-cover: "/images/covers/posts/randoms/random.webp"
+cover: "/blog/images/covers/posts/randoms/random.webp"
 draft: false
 ---
 
