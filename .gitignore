@@ -1,1 +1,24 @@
+# Hugo build output
 /public/
+
+# Hugo generated resources (pipes, images, minify, etc.)
+/resources/
+
+# Hugo lock file
+/.hugo_build.lock
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node / tooling (si usas npm, tailwind, etc.)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Env
+.env
+.env.*
