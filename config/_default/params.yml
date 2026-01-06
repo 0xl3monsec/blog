@@ -557,7 +557,7 @@ share:
   # - qq
   # - weixin
 
-# show categories card on home page
+# show categories card on home page         # SIN / en las rutas
 home_categories:
   enable: true  # activar
   content:
@@ -569,6 +569,8 @@ home_categories:
       cover: "images/covers/categories/portada-bugbounty.webp"
     - categories: "Tools and Integrations"
       cover: "images/covers/categories/portada-tools.webp"
+
+
 
 ########################################
 # Experimental features
