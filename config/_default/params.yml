@@ -694,22 +694,43 @@ internal_theme:
     --highlight-blue: '#1973b8'
     --highlight-purple: '#7135ac'
   dark:
-    --red-4: 'rgba(255, 208, 208, 0.5)'
-    --red-5: 'rgba(255,228,228,0.15)'
-    --red-5-5: 'rgba(255,236,236,0.05)'
-    --red-6: 'rgba(255, 243, 243, 0.2)'
+    #--red-4: 'rgba(255, 208, 208, 0.5)'
+    #--red-5: 'rgba(255,228,228,0.15)'
+    #--red-5-5: 'rgba(255,236,236,0.05)'
+    #--red-6: 'rgba(255, 243, 243, 0.2)'
+    --red-4: 'rgba(255, 123, 114, 0.45)'
+    --red-5: 'rgba(255, 123, 114, 0.18)'
+    --red-5-5: 'rgba(255, 123, 114, 0.08)'
+    --red-6: 'rgba(255, 123, 114, 0.25)'
 
-    --highlight-nav: '#2e353f'
-    --highlight-scrollbar: '#454d59'
-    --highlight-background: '#22272e'
-    --highlight-current-line: '#393939'
-    --highlight-selection: '#515151'
+    
+    --highlight-nav: '#161b22'          # navbar / header
+    --highlight-scrollbar: '#30363d'    # scrollbar
+    --highlight-background: '#0d1117'   # fondo principal (muy moderno)
+    --highlight-selection: '#2d333b'    # selección
+    --highlight-current-line: '#1f242c' # línea activa / bloques
+    
+    
+    
+    #--highlight-nav: '#2e353f'
+    #--highlight-scrollbar: '#454d59'
+    #--highlight-background: '#22272e'
+    #--highlight-current-line: '#393939'
+    #--highlight-selection: '#515151'
     --highlight-foreground: '#cccccc'
     --highlight-comment: '#999999'
-    --highlight-red: '#f47067'
-    --highlight-orange: '#f69d50'
-    --highlight-yellow: '#ffcc66'
-    --highlight-green: '#99cc99'
-    --highlight-aqua: '#66cccc'
-    --highlight-blue: '#54b6ff'
-    --highlight-purple: '#dcbdfb'
+    #--highlight-red: '#f47067'
+    #--highlight-orange: '#f69d50'
+    #--highlight-yellow: '#ffcc66'
+    #--highlight-green: '#99cc99'
+    #--highlight-aqua: '#66cccc'
+    #--highlight-blue: '#54b6ff'
+    #--highlight-purple: '#dcbdfb'
+    --highlight-red: '#ff7b72'
+    --highlight-orange: '#ffa657'
+    --highlight-yellow: '#f2cc60'
+    --highlight-green: '#7ee787'
+    --highlight-aqua: '#56d4dd'
+    --highlight-blue: '#79c0ff'
+    --highlight-purple: '#d2a8ff'
+

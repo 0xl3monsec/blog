@@ -3,7 +3,8 @@ title: Post Test
 # description: Chinese Test
 date: 2022-06-09T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
-cover: "/images/covers/posts/randoms/random.webp"
+cover: "images/covers/posts/randoms/random.webp"
+draft: false
 ---
 
 ## Hello
