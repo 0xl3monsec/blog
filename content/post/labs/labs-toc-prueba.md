@@ -4,7 +4,7 @@ description: "Este post es una prueba de Labs con TOC, mostrando cómo se vería
 date: 2025-09-23
 categories: ["Labs and CTFs"]
 tags: ["toc", "labs", "demo"]
-cover: "/images/covers/posts/randoms/random_2.webp"
+cover: "/images/covers/posts/randoms/random_3.webp"
 draft: false
 ---
 
