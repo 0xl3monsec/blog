@@ -1,7 +1,7 @@
 ---
 title: Markdown Basic Elements
 description: Test Markdown Basic Elements
-cover: "images/covers/posts/randoms/random_3.webp"
+cover: "/images/covers/posts/randoms/random_3.webp"
 date: 2022-06-09T20:12:52+08:00
 lastmod: 2022-06-09T20:12:52+08:00
 tags:
