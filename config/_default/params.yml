@@ -562,13 +562,13 @@ home_categories:
   enable: true  # activar
   content:
     - categories: "Writeups"
-      cover: "/images/covers/categories/portada-writeups.webp"
+      cover: "images/covers/categories/portada-writeups.webp"
     - categories: "Labs and CTFs"
-      cover: "/images/covers/categories/portada-labs.webp"
+      cover: "images/covers/categories/portada-labs.webp"
     - categories: "Bug Bounty"
-      cover: "/images/covers/categories/portada-bugbounty.webp"
+      cover: "images/covers/categories/portada-bugbounty.webp"
     - categories: "Tools and Integrations"
-      cover: "/images/covers/categories/portada-tools.webp"
+      cover: "images/covers/categories/portada-tools.webp"
 
 ########################################
 # Experimental features
