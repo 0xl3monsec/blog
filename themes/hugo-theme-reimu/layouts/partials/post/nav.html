@@ -9,7 +9,7 @@
           <img
             data-src="{{ .PrevInSection.Params.cover }}"
             data-sizes="auto"
-            alt="{{ .PrevInSection.Title }}"
+            alt="{{ .PrevInSection.Title | relURL }}"
             class="lazyload"
           />
         {{- else -}}
