@@ -621,11 +621,11 @@ player:
         - name: "All in"
           artist: "Moavii"
           url: "/audio/Moavii-AllIn.mp3"
-          cover: "images/covers/music/movi.webp"   
+          cover: "/images/covers/music/movi.webp"   
         - name: "Serenity"
           artist: "Massobeats"
           url: "/audio/massobeats-serenity.mp3"
-          cover: "images/covers/music/massobeats.webp"
+          cover: "/images/covers/music/massobeats.webp"
       fixed: false                  # ← Widget flotante
       autoplay: false
       loop: false
