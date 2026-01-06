@@ -1,0 +1,28 @@
+baseURL = '/blogs/'
+languageCode = 'en'
+title = 'Cybersecurity & Bug Hunting'
+theme = 'hugo-theme-reimu'
+
+defaultContentLanguage = 'en'
+[languages]
+[languages.en]
+languageName = 'English'
+weight = 1
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+delimiters.block = [["\\[", "\\]"], ["$$", "$$"]]
+delimiters.inline = [["\\(", "\\)"], ["$", "$"]]
+
+[markup.highlight]
+guessSyntax = true
+noClasses = false
+
+[outputs]
+home = ["Algolia", "HTML", "RSS"]
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true

@@ -1,0 +1,11 @@
+- id: menu.labs
+  translation: Labs & CTFs
+
+- id: menu.bugbounty
+  translation: BugBounty
+
+- id: menu.writeups
+  translation: Writeups
+
+- id: menu.tools
+  translation: Tools
