@@ -1,4 +1,5 @@
-baseURL = 'https://0xl3monsec.github.io/blog/'
+#baseURL = 'https://0xl3monsec.github.io/blog/'
+baseURL = 'https://lemonpwn.ink/'
 languageCode = 'en'
 title = 'Cybersecurity & Bug Hunting'
 theme = 'hugo-theme-reimu'
